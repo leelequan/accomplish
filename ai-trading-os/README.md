@@ -81,6 +81,12 @@ graph TD
 
 ---
 
+## 本地开源模型（免费权重）
+
+在 `ai-trading-os/models/` 存放 Hugging Face 下载的权重（已 `.gitignore`，不入库）。安装与一键下载见 **`models/README.md`**；脚本为 `scripts/download_models.py`，依赖见 `requirements-models.txt`。
+
+---
+
 ## 版本路线（摘要）
 
 | 阶段 | 内容 |

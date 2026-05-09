@@ -65,3 +65,8 @@ apps/desktop/resources/nodejs/
 
 # Test local agent Chrome profile
 .accomplish-test-local-agent-chrome/
+
+# AI Trading OS — Python venv + downloaded HF weights
+ai-trading-os/.venv/
+ai-trading-os/models/*
+!ai-trading-os/models/README.md

@@ -1,0 +1,4 @@
+# Hugging Face 模型下载与后续本地推理（与 Accomplish 主仓库 Node 依赖分离）
+huggingface_hub>=0.26.0
+hf_transfer>=0.1.8
+tqdm>=4.66.0
