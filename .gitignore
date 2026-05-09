@@ -70,3 +70,4 @@ apps/desktop/resources/nodejs/
 ai-trading-os/.venv/
 ai-trading-os/models/*
 !ai-trading-os/models/README.md
+ai-trading-os/**/__pycache__/
