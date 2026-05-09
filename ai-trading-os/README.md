@@ -85,6 +85,8 @@ graph TD
 
 在 `ai-trading-os/models/` 存放 Hugging Face 下载的权重（已 `.gitignore`，不入库）。安装与一键下载见 **`models/README.md`**；脚本为 `scripts/download_models.py`，依赖见 `requirements-models.txt`。
 
+推荐一键包含：**DeepSeek-R1 蒸馏**（`DeepSeek-R1-Distill-Qwen-1.5B`）、**SenseNova-U1**（`--with-sensenova`，体积大）、**ChatTTS**、**CosyVoice-300M**（使用 `python scripts/download_models.py --recommended`，按需再加 `--with-sensenova`）。
+
 ---
 
 ## 版本路线（摘要）
