@@ -81,6 +81,12 @@ graph TD
 
 ---
 
+## 视觉 / OCR（截屏读 K 线）
+
+「方向键 → 移动 + 截图」后的 OHLC、时间戳、**K 线会话内编号**等字段约定与解析示例见 **`ocr/README.md`**（Python 脚本仅依赖标准库，可与 Windows 上自建截屏工具对接）。
+
+---
+
 ## 本地开源模型（免费权重）
 
 在 `ai-trading-os/models/` 存放 Hugging Face 下载的权重（已 `.gitignore`，不入库）。安装与一键下载见 **`models/README.md`**；脚本为 `scripts/download_models.py`，依赖见 `requirements-models.txt`。

@@ -1,0 +1,13 @@
+{
+  "symbol": "BTCUSDT",
+  "timeframe": "15m",
+  "bar_index": 12,
+  "timestamp": 1710000000,
+  "open": 103200.5,
+  "high": 103850.0,
+  "low": 103100.0,
+  "close": 103700.25,
+  "volume": 12345.67,
+  "source_image_path": "captures/20250509/BTCUSDT_15m_012.png",
+  "raw_ocr_text": "O 103200.5 H 103850.0 L 103100.0 C 103700.25 Vol 12345"
+}
